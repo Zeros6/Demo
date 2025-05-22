@@ -1,0 +1,6 @@
+<farmeset rows="50%,*">
+<frame src="https://media.wired.com/photos/5954a23cce3e5e760d52d91a/master/w_1000,c_limit/facebook_2015_logo.jpg">
+<frame src="form1.html">
+</frame>
+</frame>
+</frameset>

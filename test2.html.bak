@@ -1,0 +1,12 @@
+<frameset cols="60%,*">
+	<frame>
+	<body>
+		<ul>
+		<li>Picture 1</li>
+		<li>Picture 2</li>
+		</ul>
+	</body>
+	<frame name="Right">
+	</frame>
+	</frame>
+</frameset>
